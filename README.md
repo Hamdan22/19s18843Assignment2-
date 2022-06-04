@@ -1,1 +1,21 @@
 
+
+import java.util.Arrays;
+ 
+
+public class AssignmentSQA19s18843 {
+ 
+
+    public static void main(String [] args)
+    {
+    String;    
+        int[] arr19s = {38, 32, 5 , 1, 33, 98, 21, 74 };
+ 
+        Arrays.sort(arr19s);
+
+
+        System.out.printf(" arr19s[] : %s",
+                          Arrays.toString(arr19s));
+    }
+    }
+}
